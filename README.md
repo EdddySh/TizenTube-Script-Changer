@@ -10,10 +10,6 @@
   </a>
 </p>
 
-<p align="center">
-  📥 <b><a href="https://github.com/EdddySh/TizenTube-Script-Changer/releases/latest">Click here to download the Script (ZIP)</a></b>
-</p>
-
 ---
 
 A simple PowerShell tool to decompile, inject/update scripts, and rebuild/sign TizenTube APKs without manual setup.
@@ -33,7 +29,7 @@ The entire process is fully transparent and guided via console. You can right-cl
 4. Aligns and signs it, ready to install on your device.
 
 #### 🚀 How to use:
-1. Download the portable package from the [Releases section](https://github.com/EdddySh/TizenTube-Script-Changer/releases/latest).
+1. Download the package (.ZIP) from the [Releases section](https://github.com/EdddySh/TizenTube-Script-Changer/releases/latest).
 2. Extract the archive and place your base APK inside the folder.
 3. Double-click `##Lanzador.bat` (or right-click the `.ps1` script and run it with PowerShell).
 4. Follow the on-screen instructions. The patched and signed APK will be generated inside the `Modified APK` subfolder.
